@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sara 👋
 
-<!--
-**saraurosevicc/saraurosevicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year Information Systems and Technologies student at the Faculty of Organizational Sciences, University of Belgrade, with a current GPA of 9.53/10.
 
-Here are some ideas to get you started:
+I'm interested in Data Science, Machine Learning, Data Analytics, Business Intelligence and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- Java
+- Python
+- C
+- MATLAB
+- SQL
+- Power BI
+- Microsoft Excel
+- MySQL
+- SQL Server
+- SSIS
+
+## Featured Projects
+
+### Hospital Revenue Data Warehouse & Power BI Analysis
+End-to-end BI project covering CSV source data, ETL with SSIS, dimensional data warehousing and Power BI analytics.
+
+### Bookstore Management System
+Java client-server desktop application using Swing, TCP sockets, JDBC and MySQL.
+
+### Tennis Tournament Volunteer System
+Java client-server application using TCP sockets, multithreading and object serialization.
+
+## Currently
+
+- Fourth-year student at the Faculty of Organizational Sciences
+- Student demonstrator for Systems Theory
+- Expanding my knowledge in Data Science and Machine Learning
